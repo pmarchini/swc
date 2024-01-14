@@ -82,7 +82,7 @@
 //!             // Unrecoverable fatal error occurred
 //!             e.into_diagnostic(&handler).emit()
 //!         })
-//!         .expect("failed to parser module");
+//!         .expect("failed to parse module");
 //! }
 //! ```
 //!
